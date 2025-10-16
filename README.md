@@ -22,7 +22,7 @@ Scikit-learn
 
 Matplotlib
 
-🤖 Uygulanan Modeller
+## Uygulanan Modeller
 
 K-Nearest Neighbors (KNN)
 
@@ -32,9 +32,9 @@ Decision Tree
 
 Naive Bayes
 
-📊 Sonuçlar
-Model	Accuracy
-KNN	0.93
-Logistic Regression	0.97
-Decision Tree	0.99
-Naive Bayes	0.99
+## Sonuçlar
+Model --	Accuracy
+KNN --	0.93
+Logistic Regression --	0.97
+Decision Tree --	0.99
+Naive Bayes --	0.99
